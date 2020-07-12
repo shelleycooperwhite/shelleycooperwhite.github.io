@@ -1,1 +1,0 @@
-# shelleycooperwhite.github.io

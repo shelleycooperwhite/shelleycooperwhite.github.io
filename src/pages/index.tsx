@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <Page>
       <Stack spacing={10}>
-        <Heading as="h1" size="xl" color="blue.900" py={2} fontFamily="karma">
+        <Heading as="h1" size="xl" color="blue.900" py={2} fontFamily="karma" whiteSpace="nowrap">
           Hey, I'm Shelley. 👋
         </Heading>
         <Stack spacing={5}>

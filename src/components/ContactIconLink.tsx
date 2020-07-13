@@ -21,11 +21,11 @@ export const ContactIconLink: ContactIconLink = ({ Icon, text, URL }) => {
         href={URL}
         target="_blank"
         display="inline-block"
-        mr={2}
+        mr={3}
         onMouseOver={() => setIsHovering(true)}
         onMouseOut={() => setIsHovering(false)}
       >
-        <Icon fontSize="32px" color={isHovering ? "#ecc94b" : "#1a365d"}/>
+        <Icon fontSize="30px" color={isHovering ? "#ecc94b" : "#1a365d"}/>
       </Link>
     </PseudoBox>
   )

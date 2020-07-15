@@ -23,7 +23,7 @@ export default function Home() {
           <Text>
             Years ago I found my calling in enterprise product teams, and I haven't looked back.
             I've done everything: from obscenely complex billing libraries to making swishy clicky buttons suitably swishy and clicky.
-            Nothing beats good ol' on-the-ground experience.
+            Nothing beats on-the-ground experience for knowing how to execute quickly as a cohesive team &ndash; in the real world, not an agile book.
           </Text>
           <Text>
             I care about <em>how</em> we do things &ndash; is this the best solution?
